@@ -44,11 +44,10 @@ https://jumperche.shinyapps.io/MRI-Viewer/
 ## Nifti data
 https://github.com/muschellij2/Neurohacking_data/archive/v0.0.zip
 
-### Prerequisites
+### Programming language
+R
 
-- **R** (version 3.6 or higher)
-- **RStudio** (recommended for ease of use)
-- **Git** (optional, for version control)
+
 
 ### Required R Packages
 
