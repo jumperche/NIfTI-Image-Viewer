@@ -9,6 +9,9 @@
 The **NIfTI Image Viewer** is an interactive Shiny application designed for viewing and analyzing medical imaging data in the NIfTI format. 
 This application allows users to upload NIfTI and DICOM files, offers various viewing modes, and provides basic statistical analyses.
 
+## Demo app
+https://jumperche.shinyapps.io/MRI-Viewer/
+
 ## Features
 
 - **Supported Formats:**
