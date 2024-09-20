@@ -38,7 +38,8 @@ This application allows users to upload NIfTI and DICOM files, offers various vi
   - Correlation matrix
   - Descriptive statistics (including non-zero values)
 
-## Installation
+## Nifti data
+https://github.com/muschellij2/Neurohacking_data/archive/v0.0.zip
 
 ### Prerequisites
 
